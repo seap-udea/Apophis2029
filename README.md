@@ -26,7 +26,7 @@ You may obtain the package in different ways:
 - Cloning the package as a developer (credentials required):
 
   ```  
-  git clone git@github.com:seap-udea/iWander.git
+  git clone git@github.com:seap-udea/Apophis2029.git
   ```  
 
 The size of the package is large (several hundreds of MBs).  This is
