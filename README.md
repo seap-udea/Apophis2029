@@ -8,7 +8,7 @@ Presentation
 
 The data and scripts available in this repo reproduce the results published in:
 
-    Vallejo, A., Zuluaga, J.I. (2022). Conditions for visual and
+  Vallejo, A., Zuluaga, J.I. (2022). Conditions for visual and
     high-resolution bistatic radar observations of Apophis in 2029.
     ArXiv: 2201.12205, https://arxiv.org/abs/2201.12205 (under review
     in MNRAS)
